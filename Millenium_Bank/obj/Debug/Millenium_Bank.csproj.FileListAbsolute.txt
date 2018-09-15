@@ -1,0 +1,14 @@
+c:\users\mauri\documents\visual studio 2013\Projects\Millenium_Bank\Millenium_Bank\bin\Debug\Millenium_Bank.exe.config
+c:\users\mauri\documents\visual studio 2013\Projects\Millenium_Bank\Millenium_Bank\bin\Debug\Millenium_Bank.exe
+c:\users\mauri\documents\visual studio 2013\Projects\Millenium_Bank\Millenium_Bank\bin\Debug\Millenium_Bank.pdb
+c:\users\mauri\documents\visual studio 2013\Projects\Millenium_Bank\Millenium_Bank\obj\Debug\Millenium_Bank.Properties.Resources.resources
+c:\users\mauri\documents\visual studio 2013\Projects\Millenium_Bank\Millenium_Bank\obj\Debug\Millenium_Bank.csproj.GenerateResource.Cache
+c:\users\mauri\documents\visual studio 2013\Projects\Millenium_Bank\Millenium_Bank\obj\Debug\Millenium_Bank.exe
+c:\users\mauri\documents\visual studio 2013\Projects\Millenium_Bank\Millenium_Bank\obj\Debug\Millenium_Bank.pdb
+c:\users\mauri\documents\visual studio 2013\Projects\Millenium_Bank\Millenium_Bank\obj\Debug\Millenium_Bank.Home.resources
+c:\users\mauri\documents\visual studio 2013\Projects\Millenium_Bank\Millenium_Bank\obj\Debug\Millenium_Bank.Novo_Banco.resources
+c:\users\mauri\documents\visual studio 2013\Projects\Millenium_Bank\Millenium_Bank\obj\Debug\Millenium_Bank.Nova_Agencia.resources
+c:\users\mauri\documents\visual studio 2013\Projects\Millenium_Bank\Millenium_Bank\obj\Debug\Millenium_Bank.Novo_Cliente.resources
+c:\users\mauri\documents\visual studio 2013\Projects\Millenium_Bank\Millenium_Bank\obj\Debug\Millenium_Bank.Nova_Conta.resources
+c:\users\mauri\documents\visual studio 2013\Projects\Millenium_Bank\Millenium_Bank\obj\Debug\Millenium_Bank.Operacoes.resources
+c:\users\mauri\documents\visual studio 2013\Projects\Millenium_Bank\Millenium_Bank\obj\Debug\Millenium_Bank.Welcome.resources

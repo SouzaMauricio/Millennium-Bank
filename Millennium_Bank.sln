@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Millennium_Bank", "Millenium_Bank\Millennium_Bank.csproj", "{70E8EB78-8B13-4B0D-9A45-EDC8B8858549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Millennium_Bank_DTO", "Millennium_Bank_DTO\Millennium_Bank_DTO.csproj", "{AB85E87A-6881-4A31-9242-42CC4278236B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Millennium_Bank_DAL", "Millennium_Bank_DAL\Millennium_Bank_DAL.csproj", "{816347B6-79B7-446C-801C-3C49CAF8F97A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Millennium_Bank_BLL", "Millennium_Bank_BLL\Millennium_Bank_BLL.csproj", "{BE6D3684-FE4C-4A28-A519-F82925F262E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70E8EB78-8B13-4B0D-9A45-EDC8B8858549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E8EB78-8B13-4B0D-9A45-EDC8B8858549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E8EB78-8B13-4B0D-9A45-EDC8B8858549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E8EB78-8B13-4B0D-9A45-EDC8B8858549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB85E87A-6881-4A31-9242-42CC4278236B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB85E87A-6881-4A31-9242-42CC4278236B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB85E87A-6881-4A31-9242-42CC4278236B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB85E87A-6881-4A31-9242-42CC4278236B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{816347B6-79B7-446C-801C-3C49CAF8F97A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816347B6-79B7-446C-801C-3C49CAF8F97A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816347B6-79B7-446C-801C-3C49CAF8F97A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816347B6-79B7-446C-801C-3C49CAF8F97A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE6D3684-FE4C-4A28-A519-F82925F262E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6D3684-FE4C-4A28-A519-F82925F262E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6D3684-FE4C-4A28-A519-F82925F262E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6D3684-FE4C-4A28-A519-F82925F262E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

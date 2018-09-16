@@ -4,7 +4,7 @@ Com o MillenniumBank é possivel cadastrar bancos, agências, contas e clientes,
     -Saque;<br>
     -Depósito;<br>
     -Consultar Saldo.<br>
-O sistema ainda gera comprovantes de Saque e de Depósito que podem ser salvos como imagem.<br>
+O sistema ainda gera comprovantes de Saque e de Depósito que podem ser salvos como *png ou *jpg.<br>
 
 <h3>Informações Técnicas:</h3>
 <p>&nbsp&nbsp&nbsp&nbspLinguagem: C# <p>
@@ -16,6 +16,7 @@ O sistema ainda gera comprovantes de Saque e de Depósito que podem ser salvos c
 
 <h3>Observações:</h3>
 <p>&nbsp&nbsp&nbsp&nbsp-O Script para criação do banco já esta na pasta do projeto.</p>
+<p>&nbsp&nbsp&nbsp&nbsp-O sistema utiliza autocomplete para puxar as informações e as colocar nos campos de texto.</p>
 <p>&nbsp&nbsp&nbsp&nbsp-ArkTecnologia foi a empresa fictícia criada para o desenvolviento do projeto.</>
 <p>&nbsp&nbsp&nbsp&nbsp-Dados de Acesso:</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspUsuário: ADMIN</p>

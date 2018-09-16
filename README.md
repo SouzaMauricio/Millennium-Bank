@@ -1,4 +1,4 @@
-# MillenniumBank
+# Millennium Bank
 O Millennium Bank é um sistema desenvolvido para fins de estudos na linguagem C#.<br>
 Com o MillenniumBank é possivel cadastrar bancos, agências, contas e clientes, além disso o sistema permite a realização das seguintes operações financeiras:<br>
     -Saque;<br>

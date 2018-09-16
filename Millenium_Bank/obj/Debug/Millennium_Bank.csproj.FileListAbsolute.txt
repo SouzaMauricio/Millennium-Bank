@@ -121,3 +121,34 @@ C:\Users\mauri\OneDrive\Documents\Visual Studio 2017\Projects\Millenium_Bank\Mil
 C:\Users\mauri\OneDrive\Documents\Visual Studio 2017\Projects\Millenium_Bank\Millenium_Bank\obj\Debug\Millennium_Bank.csproj.CopyComplete
 C:\Users\mauri\OneDrive\Documents\Visual Studio 2017\Projects\Millenium_Bank\Millenium_Bank\obj\Debug\Millenium_Bank.exe
 C:\Users\mauri\OneDrive\Documents\Visual Studio 2017\Projects\Millenium_Bank\Millenium_Bank\obj\Debug\Millenium_Bank.pdb
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\bin\Debug\Millenium_Bank.exe.config
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\bin\Debug\Millenium_Bank.exe
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\bin\Debug\Millenium_Bank.pdb
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\bin\Debug\Millennium_Bank_BLL.dll
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\bin\Debug\Millennium_Bank_DTO.dll
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\bin\Debug\Millennium_Bank_DAL.dll
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\bin\Debug\MySql.Data.dll
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\bin\Debug\Millennium_Bank_BLL.pdb
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\bin\Debug\Millennium_Bank_DTO.pdb
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\bin\Debug\Millennium_Bank_DAL.pdb
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\bin\Debug\MySql.Data.xml
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\obj\Debug\Millennium_Bank.csprojAssemblyReference.cache
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\obj\Debug\Millenium_Bank.Carregar.resources
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\obj\Debug\Millenium_Bank.Depositar.resources
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\obj\Debug\Millenium_Bank.Comprovante.resources
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\obj\Debug\Millenium_Bank.Home.resources
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\obj\Debug\Millenium_Bank.Login.resources
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\obj\Debug\Millenium_Bank.Nova_Agencia.resources
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\obj\Debug\Millenium_Bank.Nova_Conta.resources
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\obj\Debug\Millenium_Bank.Novo_Banco.resources
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\obj\Debug\Millenium_Bank.Novo_Cliente.resources
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\obj\Debug\Millenium_Bank.Operacoes.resources
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\obj\Debug\Millenium_Bank.Properties.Resources.resources
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\obj\Debug\Millenium_Bank.Sacar.resources
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\obj\Debug\Millenium_Bank.Saldo.resources
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\obj\Debug\Millenium_Bank.Welcome.resources
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\obj\Debug\Millennium_Bank.csproj.GenerateResource.cache
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\obj\Debug\Millennium_Bank.csproj.CoreCompileInputs.cache
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\obj\Debug\Millennium_Bank.csproj.CopyComplete
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\obj\Debug\Millenium_Bank.exe
+C:\Users\mauri\OneDrive\Documents\GitHub\MillenniumBank\Millenium_Bank\obj\Debug\Millenium_Bank.pdb

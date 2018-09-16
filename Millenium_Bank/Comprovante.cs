@@ -122,7 +122,7 @@ namespace Millenium_Bank
 
             saveImageDialog.Title = "Selecionar caminho do Ficheiro:";
 
-            saveImageDialog.Filter = "JPG Image|*.jpg|Gif Image|*.gif|PNG Image|*.png|All files (*.*)|*.*";
+            saveImageDialog.Filter = "JPG Image|*.jpg|PNG Image|*.png";
 
             saveImageDialog.FileName = ("Comprovante_" + tipo + "_" + lbl_Data.Text.Replace('/', '_').Replace(':', '_') + "_" + lbl_Hora.Text.Replace(':', '_')).Trim();
 
